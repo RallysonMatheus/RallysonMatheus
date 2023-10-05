@@ -19,6 +19,7 @@
 
  
 </div>
+
 ### Sou um desenvolvedor em formação com uma paixão por jogos e programação. Estou constantemente aprendendo e me esforçando para melhorar minhas habilidades a cada dia.
 
 ## 🌱 Atualmente estou aprendendo:
