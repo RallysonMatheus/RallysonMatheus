@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá, eu sou Rallyson Mateus! 👋
 
-<!--
-**RallysonMatheus/RallysonMatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou atualmente aprendendo a desenvolver jogos e também estou aprendendo a programar em C#. 
 
-Here are some ideas to get you started:
+## 🌱 O que estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvimento de jogos
+- Programação em C#
+
+## 🎮 Interesses
+
+- Jogos
+- Programação
+
+## 📫 Como me encontrar
+
+- GitHub: Rallyson Mateus
+
