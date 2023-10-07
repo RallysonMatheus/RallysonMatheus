@@ -36,6 +36,7 @@
 
 ## 📫 Como me encontrar:
 
+- Email: Rallyson-Matheus@Hotmail.com
 - GitHub: Rallyson Mateus
 
 ## 🚀 Projetos Futuros:
