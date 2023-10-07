@@ -38,6 +38,7 @@
 
 - Email: Rallyson-Matheus@Hotmail.com
 - GitHub: Rallyson Mateus
+- Discord: Rallyson#8105
 
 ## 🚀 Projetos Futuros:
 
